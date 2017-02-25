@@ -1,0 +1,11 @@
+# Site settings
+title: CanaryTek Consultoría y Sistemas
+email: info@canarytek.com
+description: > 
+  Empresa dedicada a la consultoría en el terreno de la informática y las telecomunicaciones, asi como al 
+  diseño y desarrollo de soluciones de tecnologías de la información y comunicaciones TIC.
+
+url: "https://www.canarytek.com"
+
+sass:
+  style: compressed
